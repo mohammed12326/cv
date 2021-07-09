@@ -72,14 +72,14 @@ color:#fafafa;
     height: 80%;
 
 }
-.main .knowledge .cpp,.python,.csharp,.html,.css,.js,.sql{
+.main .knowledge .cpp,.python,.csharp,.html,.css,.js,.sql,.ruby,.java{
     width:200px;
     height: 200px;
     border: 3px solid black;
     text-align: center;
     overflow: hidden;
     float: left;
-    margin: 30px 10px;
+    margin: 30px 14px;
 }
 .main .knowledge a{
     text-decoration: none;
